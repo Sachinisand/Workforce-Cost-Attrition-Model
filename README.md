@@ -15,7 +15,7 @@ executive dashboard for non-technical leadership and PE stakeholders.
 
 ---
 
-## The headline finding (plain English)
+## The headline finding
 
 On a workforce of **524 active employees** with a modelled annual attrition rate of
 **~23%**, the model identifies a **retention watchlist of 64 people** (the top 12%
@@ -41,7 +41,7 @@ different random seed; the structure and direction of the result are stable.)*
 ## What's in the box
 
 ```
-workforce_analytics/
+Workforce Cost & Attrition Risk Model/
 ├── README.md                          ← you are here
 ├── src/
 │   ├── 01_generate_synthetic_data.py  ← builds 3 messy source files
@@ -162,21 +162,11 @@ euros, not model jargon.
 
 ---
 
-## How I'd describe this in an interview (30 seconds)
-
-> "I built an end-to-end people-analytics system that takes three disconnected,
-> deliberately messy data sources — HRIS, payroll, and external salary benchmarks
-> with mismatched IDs — and integrates them into one governed dataset with a full
-> data-quality audit trail. On top of that I trained an attrition risk model that
-> scores every active employee and flags a retention watchlist, then I wrapped it
-> in a compensation scenario model that turns those risk scores into a board-level
-> financial decision: it shows that roughly €0.7M of targeted retention raises
-> avoids around €5.6M of replacement and productivity cost over two years. The whole
-> thing ends in an interactive executive dashboard a CFO or Head of HR can read in
-> euros, not risk scores."
-
----
 
 *Built as a portfolio project. Synthetic data only. Model performance and exact euro
 figures are representative of a single generated run and will vary slightly on
 regeneration; the methodology and the direction of the conclusions are stable.*
+
+## Author
+
+Sachini Hewahattage — Data Analytics Portfolio Project
