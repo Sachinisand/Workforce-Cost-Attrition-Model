@@ -1,0 +1,34 @@
+WORKFORCE DATA QUALITY & GOVERNANCE REPORT
+Generated: 2026-06-28 21:37
+============================================================
+Source records:   HRIS=680  Payroll(dedup)=680  Benchmark=598
+Unified master:   680 employees (524 active, 156 terminated)
+
+Issues by severity: ERROR=3, WARN=2, INFO=1
+------------------------------------------------------------
+[ERROR] duplicate_records
+        issue : 2 duplicate row(s) on payroll.tax_ref: ['DE93000070']
+        action: kept first occurrence, dropped the rest
+[ERROR] missing_salary
+        issue : 5 employee(s) missing base salary
+        action: imputed with department x level median (global median fallback)
+[ERROR] salary_out_of_range
+        issue : 1 salary(ies) outside [0.4x band_min, 2.5x band_max]: ['DF-100020']
+        action: capped to band_max (likely 10x data-entry error)
+[WARN ] text_standardisation
+        issue : 2 department value(s) had inconsistent casing/whitespace
+        action: canonicalised to standard department names
+[WARN ] missing_performance
+        issue : 8 employee(s) missing performance rating
+        action: imputed with median rating (3); flagged for review
+[INFO ] benchmark_coverage
+        issue : 82 of 680 employees (12%) had no external benchmark
+        action: imputed market_p50 from internal band_mid (documented fallback)
+------------------------------------------------------------
+Imputation / correction flag totals on master:
+    benchmark_imputed     : 82
+    salary_imputed        : 5
+    performance_imputed   : 8
+    salary_corrected      : 1
+============================================================
+All flagged records remain queryable via their *_imputed / *_corrected columns for full auditability.

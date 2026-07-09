@@ -1,0 +1,525 @@
+employee_id,department,job_level,location,tenure_months,performance_rating,base_salary,market_benchmark_salary,comp_to_market_ratio,months_since_last_raise,last_merit_increase_pct,risk_score,risk_band,on_watchlist
+DF-100053,Customer Success,L3 - Senior,Lisbon,13,3.0,57643.0,63906.0,0.902,24,0.74,78.7,Critical,True
+DF-100502,Engineering,L2 - Mid,Hamburg,21,3.0,67306.0,82080.0,0.82,16,3.0,77.4,Critical,True
+DF-100566,Customer Success,L3 - Senior,Hamburg,65,3.0,69711.0,82746.0,0.8425,15,4.33,77.1,Critical,True
+DF-100069,Customer Success,L3 - Senior,Lisbon,51,3.0,63602.0,74306.0,0.8559,21,2.19,76.5,Critical,True
+DF-100663,Engineering,L1 - Junior,Munich,46,5.0,52094.0,58542.0,0.8899,16,6.01,75.9,Critical,True
+DF-100152,Operations,L4 - Lead,Hamburg,43,4.0,84006.0,100342.0,0.8372,12,1.2,75.8,Critical,True
+DF-100232,Finance,L2 - Mid,London,82,5.0,61765.0,79750.0,0.7745,16,4.29,75.0,Critical,True
+DF-100642,Sales,L1 - Junior,Berlin,24,3.0,44002.0,49372.0,0.8912,14,2.88,74.9,Critical,True
+DF-100509,People/HR,L1 - Junior,London,38,2.0,45771.0,51692.0,0.8855,11,1.07,73.6,Critical,True
+DF-100158,Customer Success,L1 - Junior,London,47,2.0,50498.0,57992.0,0.8708,18,2.65,73.6,Critical,True
+DF-100358,Data & Analytics,L1 - Junior,Lisbon,33,3.0,41026.0,48302.0,0.8494,18,1.36,72.3,Critical,True
+DF-100132,Engineering,L6 - Director,Berlin,47,4.0,69256.0,196308.0,0.3528,11,7.13,71.8,Critical,True
+DF-100511,Marketing,L1 - Junior,Munich,37,3.0,42928.0,47920.0,0.8958,16,5.12,71.0,Critical,True
+DF-100275,Operations,L4 - Lead,Lisbon,44,5.0,69484.0,87607.0,0.7931,12,4.23,70.9,Critical,True
+DF-100290,Engineering,L2 - Mid,Remote-DE,18,3.0,69222.0,80293.0,0.8621,5,1.36,70.8,Critical,True
+DF-100468,Product,L2 - Mid,Hamburg,31,3.0,68075.0,77646.0,0.8767,22,2.06,70.2,Critical,True
+DF-100284,Data & Analytics,L1 - Junior,Munich,38,5.0,51129.0,59857.0,0.8542,17,4.69,69.9,High,True
+DF-100261,Support,L2 - Mid,Hamburg,3,3.0,42366.0,52089.0,0.8133,3,2.54,68.9,High,True
+DF-100090,Product,L3 - Senior,London,26,3.0,105568.0,125825.0,0.839,19,2.86,68.8,High,True
+DF-100486,Product,L4 - Lead,London,53,1.0,130110.0,161485.0,0.8057,10,2.52,67.0,High,True
+DF-100576,Customer Success,L3 - Senior,London,36,4.0,89286.0,104321.0,0.8559,7,0.46,66.8,High,True
+DF-100252,Finance,L3 - Senior,Remote-DE,49,3.0,80574.0,99733.0,0.8079,16,2.18,66.8,High,True
+DF-100374,Product,L1 - Junior,Berlin,57,5.0,46920.0,57071.0,0.8221,12,5.33,66.4,High,True
+DF-100107,Engineering,L3 - Senior,Berlin,7,3.0,96730.0,107548.0,0.8994,7,4.93,66.0,High,True
+DF-100596,Customer Success,L2 - Mid,Remote-DE,19,4.0,56383.0,62002.0,0.9094,16,3.92,66.0,High,True
+DF-100291,Marketing,L5 - Manager,Munich,65,3.0,115044.0,130507.0,0.8815,10,6.53,65.3,High,True
+DF-100213,Engineering,L3 - Senior,Lisbon,55,5.0,83614.0,99332.0,0.8418,17,4.13,65.3,High,True
+DF-100658,People/HR,L4 - Lead,Munich,22,3.0,99704.0,105331.0,0.9466,20,0.9,65.0,High,True
+DF-100001,Operations,L3 - Senior,London,15,3.0,83969.0,94305.0,0.8904,13,3.83,65.0,High,True
+DF-100148,Data & Analytics,L1 - Junior,Lisbon,33,3.0,41517.0,45775.0,0.907,20,0.27,65.0,High,True
+DF-100177,Operations,L1 - Junior,Munich,110,4.0,40583.0,41953.0,0.9673,15,0.65,64.9,High,True
+DF-100225,Support,L3 - Senior,Munich,32,3.0,69801.0,77772.0,0.8975,13,4.41,64.7,High,True
+DF-100223,Support,L2 - Mid,Berlin,10,3.0,40867.0,45444.0,0.8993,2,2.79,64.6,High,True
+DF-100461,Product,L2 - Mid,Remote-DE,61,2.0,60092.0,80322.0,0.7481,13,6.24,64.4,High,True
+DF-100098,Finance,L1 - Junior,Hamburg,77,2.0,42195.0,47209.0,0.8938,10,7.07,63.8,High,True
+DF-100529,Customer Success,L1 - Junior,Remote-DE,80,5.0,40177.0,41991.0,0.9568,14,3.31,63.7,High,True
+DF-100127,Finance,L2 - Mid,Lisbon,50,3.0,52672.0,57522.0,0.9157,17,1.38,63.7,High,True
+DF-100326,Product,L2 - Mid,Lisbon,38,3.0,52606.0,65679.0,0.801,5,5.49,63.4,High,True
+DF-100204,Sales,L1 - Junior,Remote-DE,14,3.0,49658.0,54008.0,0.9195,18,0.0,63.0,High,True
+DF-100475,Sales,L2 - Mid,Munich,28,3.0,67322.0,73132.0,0.9206,11,2.33,62.6,High,True
+DF-100648,People/HR,L3 - Senior,Berlin,73,3.0,71563.0,80668.0,0.8871,13,5.95,61.3,High,True
+DF-100081,Engineering,L1 - Junior,Hamburg,16,3.0,48776.0,52387.0,0.9311,11,4.28,61.0,High,True
+DF-100603,Marketing,L1 - Junior,Hamburg,41,3.0,43794.0,48159.0,0.9094,14,4.97,60.2,High,True
+DF-100439,Sales,L2 - Mid,Munich,23,3.0,76946.0,82311.0,0.9348,25,1.2,60.0,High,True
+DF-100572,Customer Success,L1 - Junior,Remote-DE,100,5.0,41016.0,43319.0,0.9468,12,5.64,60.0,High,True
+DF-100349,Customer Success,L4 - Lead,Hamburg,59,4.0,102437.0,105952.0,0.9668,15,1.95,59.8,High,True
+DF-100330,People/HR,L1 - Junior,Remote-DE,27,4.0,40335.0,44462.0,0.9072,10,2.43,59.7,High,True
+DF-100154,Marketing,L4 - Lead,Munich,6,4.0,107348.0,131359.0,0.8172,0,3.21,59.6,High,True
+DF-100466,Sales,L1 - Junior,Munich,90,3.0,48786.0,51048.0,0.9557,13,4.27,59.6,High,True
+DF-100504,Finance,L3 - Senior,Hamburg,24,3.0,79958.0,82856.0,0.965,22,2.33,59.6,High,True
+DF-100485,Support,L2 - Mid,Berlin,54,2.0,50256.0,56790.0,0.8849,7,5.18,59.4,High,True
+DF-100503,Sales,L1 - Junior,Berlin,35,3.0,44006.0,46871.0,0.9389,10,1.75,59.2,High,True
+DF-100315,Product,L3 - Senior,London,15,3.0,114330.0,127058.0,0.8998,18,4.4,59.0,High,True
+DF-100444,Support,L2 - Mid,Berlin,28,3.0,46968.0,50227.0,0.9351,17,5.53,59.0,High,True
+DF-100279,Marketing,L3 - Senior,London,40,4.0,93647.0,96468.0,0.9708,26,1.0,58.8,High,True
+DF-100415,Operations,L1 - Junior,Hamburg,34,5.0,37545.0,41599.0,0.9025,12,6.69,58.5,High,True
+DF-100136,Product,L2 - Mid,Remote-DE,12,3.0,67093.0,77200.0,0.8691,4,3.07,58.3,High,True
+DF-100616,Data & Analytics,L1 - Junior,Munich,6,3.0,59484.0,68586.0,0.8673,5,3.54,58.0,High,True
+DF-100258,Operations,L1 - Junior,Lisbon,49,2.0,34877.0,38199.0,0.913,10,2.11,58.0,High,True
+DF-100075,Product,L5 - Manager,Munich,5,4.0,148771.0,168510.0,0.8829,5,3.96,57.9,High,True
+DF-100021,Customer Success,L3 - Senior,Munich,3,3.0,83290.0,89897.0,0.9265,3,3.14,57.1,High,True
+DF-100607,Support,L2 - Mid,London,25,5.0,56109.0,61496.0,0.9124,5,4.36,56.8,High,True
+DF-100074,Operations,L2 - Mid,Berlin,22,4.0,54599.0,59003.0,0.9254,15,3.4,56.7,High,True
+DF-100190,Sales,L3 - Senior,London,35,2.0,114220.0,119182.0,0.9584,19,1.04,56.7,High,True
+DF-100080,Support,L2 - Mid,Munich,32,5.0,54192.0,55025.0,0.9849,19,0.79,56.6,High,False
+DF-100458,Operations,L6 - Director,Hamburg,93,4.0,131498.0,135917.0,0.9675,11,2.33,56.6,High,False
+DF-100209,Engineering,L1 - Junior,Lisbon,22,2.0,44445.0,47683.0,0.9321,14,6.78,56.3,High,False
+DF-100542,People/HR,L2 - Mid,Hamburg,50,3.0,58938.0,63292.0,0.9312,17,2.82,56.2,High,False
+DF-100332,People/HR,L2 - Mid,London,93,4.0,60640.0,62518.0,0.97,10,3.65,56.1,High,False
+DF-100396,Data & Analytics,L2 - Mid,Hamburg,27,3.0,74408.0,78275.0,0.9506,20,1.62,55.8,High,False
+DF-100282,Product,L1 - Junior,Remote-DE,50,3.0,53009.0,64765.0,0.8185,10,5.76,55.5,High,False
+DF-100277,Marketing,L3 - Senior,Berlin,38,3.0,74402.0,78917.0,0.9428,16,5.25,55.5,High,False
+DF-100672,Product,L1 - Junior,Hamburg,49,2.0,57212.0,58582.0,0.9766,21,1.4,55.5,High,False
+DF-100038,Operations,L3 - Senior,Remote-DE,35,3.0,77507.0,85446.0,0.9071,10,1.24,55.4,High,False
+DF-100051,People/HR,L2 - Mid,Berlin,42,3.0,53618.0,58603.0,0.9149,9,6.0,54.7,High,False
+DF-100072,People/HR,L4 - Lead,Berlin,11,1.0,97289.0,98793.0,0.9848,13,0.63,54.5,High,False
+DF-100003,Sales,L2 - Mid,Munich,52,4.0,69615.0,71667.0,0.9714,17,2.87,54.2,High,False
+DF-100202,Marketing,L4 - Lead,Lisbon,121,3.0,88990.0,91211.0,0.9756,16,2.04,54.1,High,False
+DF-100429,Support,L2 - Mid,Remote-DE,43,3.0,47140.0,50525.0,0.933,13,6.36,53.9,High,False
+DF-100047,Engineering,L1 - Junior,Berlin,91,3.0,55451.0,59586.0,0.9306,8,6.87,53.8,High,False
+DF-100506,Marketing,L1 - Junior,Lisbon,3,5.0,33276.0,35302.0,0.9426,3,4.47,53.7,High,False
+DF-100110,Product,L1 - Junior,Lisbon,126,5.0,43249.0,43726.0,0.9891,19,1.29,53.7,High,False
+DF-100310,Operations,L2 - Mid,Berlin,54,3.0,50356.0,54246.0,0.9283,11,7.54,53.6,High,False
+DF-100381,Finance,L3 - Senior,London,44,4.0,88928.0,96125.0,0.9251,1,2.63,53.1,High,False
+DF-100302,Product,L3 - Senior,Lisbon,56,2.0,80483.0,93171.0,0.8638,12,4.53,53.1,High,False
+DF-100371,Support,L1 - Junior,Lisbon,38,4.0,30044.0,30743.0,0.9773,9,4.05,53.0,High,False
+DF-100065,Sales,L2 - Mid,Munich,28,4.0,69235.0,77234.0,0.8964,4,5.57,52.6,High,False
+DF-100601,Data & Analytics,L3 - Senior,Remote-DE,50,4.0,96033.0,109491.0,0.8771,7,3.46,52.5,High,False
+DF-100386,Data & Analytics,L2 - Mid,Munich,71,4.0,79239.0,90345.0,0.8771,8,7.02,52.4,High,False
+DF-100307,Sales,L3 - Senior,London,21,4.0,93601.0,99300.0,0.9426,10,5.45,52.3,High,False
+DF-100070,Engineering,L1 - Junior,Hamburg,94,4.0,56731.0,54716.0,1.0368,22,1.88,51.4,High,False
+DF-100025,Data & Analytics,L1 - Junior,Remote-DE,72,4.0,50579.0,50527.0,1.001,16,0.71,51.2,High,False
+DF-100165,Data & Analytics,L2 - Mid,Hamburg,62,5.0,74505.0,81779.0,0.9111,12,0.0,51.2,High,False
+DF-100457,Marketing,L1 - Junior,Berlin,19,3.0,42749.0,42970.0,0.9949,15,1.02,51.2,High,False
+DF-100615,Sales,L4 - Lead,Lisbon,5,2.0,94354.0,98708.0,0.9559,5,6.44,50.9,High,False
+DF-100605,Support,L2 - Mid,Lisbon,20,3.0,42917.0,45054.0,0.9526,7,4.08,50.8,High,False
+DF-100563,Data & Analytics,L2 - Mid,Berlin,28,2.0,69256.0,69120.0,1.002,26,0.35,50.5,High,False
+DF-100012,Support,L1 - Junior,Lisbon,110,3.0,31823.0,32658.0,0.9744,16,2.22,50.1,High,False
+DF-100539,Product,L1 - Junior,Lisbon,93,4.0,46224.0,49162.0,0.9402,16,4.3,50.0,High,False
+DF-100013,Data & Analytics,L2 - Mid,Berlin,37,4.0,74318.0,81013.0,0.9174,7,0.85,49.3,Moderate,False
+DF-100115,Sales,L1 - Junior,Munich,23,5.0,57103.0,59698.0,0.9565,13,2.53,49.1,Moderate,False
+DF-100034,Sales,L6 - Director,Remote-DE,28,1.0,187070.0,206041.0,0.9079,23,1.31,49.1,Moderate,False
+DF-100446,Product,L2 - Mid,Hamburg,40,4.0,71164.0,76996.0,0.9243,12,5.08,49.0,Moderate,False
+DF-100513,Finance,L4 - Lead,Remote-DE,83,4.0,101861.0,104265.0,0.9769,11,3.99,48.8,Moderate,False
+DF-100634,Data & Analytics,L2 - Mid,Hamburg,32,2.0,74137.0,81203.0,0.913,5,3.74,48.7,Moderate,False
+DF-100460,Engineering,L2 - Mid,Munich,8,5.0,88322.0,95096.0,0.9288,3,0.9,48.6,Moderate,False
+DF-100370,Sales,L2 - Mid,Hamburg,43,3.0,69184.0,76110.0,0.909,11,5.93,48.6,Moderate,False
+DF-100419,Marketing,L4 - Lead,Hamburg,26,3.0,109726.0,117852.0,0.931,17,7.2,48.4,Moderate,False
+DF-100598,Customer Success,L1 - Junior,Hamburg,70,3.0,42188.0,42530.0,0.992,5,7.02,48.2,Moderate,False
+DF-100448,Support,L2 - Mid,Lisbon,38,4.0,41788.0,41493.0,1.0071,21,2.31,47.9,Moderate,False
+DF-100574,Engineering,L1 - Junior,Hamburg,43,3.0,60868.0,60487.0,1.0063,17,10.4,47.8,Moderate,False
+DF-100432,People/HR,L2 - Mid,Hamburg,42,3.0,60079.0,62092.0,0.9676,13,3.62,47.6,Moderate,False
+DF-100579,Marketing,L6 - Director,Lisbon,144,3.0,122269.0,128799.0,0.9493,11,6.23,47.4,Moderate,False
+DF-100479,Product,L5 - Manager,Lisbon,58,4.0,120929.0,137273.0,0.8809,14,10.68,47.2,Moderate,False
+DF-100571,Sales,L1 - Junior,Remote-DE,10,1.0,49319.0,49924.0,0.9879,6,6.47,47.1,Moderate,False
+DF-100116,Support,L3 - Senior,Munich,20,4.0,73188.0,78049.0,0.9377,10,7.44,47.0,Moderate,False
+DF-100347,Operations,L1 - Junior,Munich,64,2.0,43687.0,45623.0,0.9576,9,4.52,46.9,Moderate,False
+DF-100249,Operations,L2 - Mid,Munich,65,2.0,57882.0,55322.0,1.0463,20,1.3,46.9,Moderate,False
+DF-100484,Product,L2 - Mid,Hamburg,51,5.0,75432.0,81275.0,0.9281,9,2.58,46.9,Moderate,False
+DF-100531,Product,L4 - Lead,Munich,104,3.0,132721.0,130739.0,1.0152,17,5.97,46.8,Moderate,False
+DF-100159,Marketing,L2 - Mid,Munich,21,4.0,60771.0,61837.0,0.9828,17,7.62,46.4,Moderate,False
+DF-100263,Product,L1 - Junior,Hamburg,11,3.0,53063.0,54229.0,0.9785,11,2.47,46.3,Moderate,False
+DF-100062,People/HR,L2 - Mid,Remote-DE,51,3.0,57755.0,62102.0,0.93,10,3.33,46.1,Moderate,False
+DF-100391,Data & Analytics,L2 - Mid,London,94,3.0,86738.0,90991.0,0.9533,9,3.94,45.3,Moderate,False
+DF-100341,Support,L2 - Mid,Munich,7,4.0,53276.0,55256.0,0.9642,0,5.46,45.2,Moderate,False
+DF-100303,Finance,L2 - Mid,Lisbon,34,2.0,50509.0,53198.0,0.9495,2,3.41,45.2,Moderate,False
+DF-100491,Operations,L2 - Mid,Munich,60,4.0,58370.0,62619.0,0.9321,12,3.7,44.9,Moderate,False
+DF-100178,Customer Success,L4 - Lead,Berlin,37,4.0,98826.0,97589.0,1.0127,12,3.73,44.7,Moderate,False
+DF-100589,Sales,L1 - Junior,Hamburg,87,2.0,52875.0,51109.0,1.0346,15,6.0,44.6,Moderate,False
+DF-100199,Customer Success,L2 - Mid,Munich,5,3.0,64759.0,65301.0,0.9917,5,3.77,44.5,Moderate,False
+DF-100041,Support,L5 - Manager,Munich,114,3.0,112743.0,123788.0,0.9108,14,6.35,44.4,Moderate,False
+DF-100328,Data & Analytics,L1 - Junior,Remote-DE,80,4.0,50806.0,47211.0,1.0761,28,0.57,44.4,Moderate,False
+DF-100076,Marketing,L3 - Senior,Remote-DE,16,1.0,75443.0,74311.0,1.0152,22,3.15,44.4,Moderate,False
+DF-100207,Data & Analytics,L2 - Mid,Berlin,40,3.0,78313.0,84257.0,0.9295,16,5.59,44.3,Moderate,False
+DF-100612,Operations,L6 - Director,Hamburg,6,2.0,138582.0,141678.0,0.9781,0,7.19,44.0,Moderate,False
+DF-100173,Finance,L5 - Manager,Munich,12,5.0,136335.0,144133.0,0.9459,12,3.26,43.9,Moderate,False
+DF-100451,Sales,L2 - Mid,Munich,40,3.0,74051.0,73443.0,1.0083,18,2.29,43.8,Moderate,False
+DF-100597,Finance,L1 - Junior,Hamburg,55,4.0,49466.0,52007.0,0.9511,17,4.62,43.7,Moderate,False
+DF-100674,Sales,L2 - Mid,Munich,23,5.0,77791.0,78546.0,0.9904,22,2.2,43.6,Moderate,False
+DF-100161,Marketing,L1 - Junior,London,95,3.0,52344.0,47255.0,1.1077,15,1.51,43.6,Moderate,False
+DF-100160,Support,L1 - Junior,Remote-DE,13,3.0,33986.0,33605.0,1.0113,5,5.88,43.5,Moderate,False
+DF-100428,Product,L2 - Mid,London,20,3.0,85530.0,87294.0,0.9798,6,1.2,43.4,Moderate,False
+DF-100640,Customer Success,L2 - Mid,London,22,3.0,68283.0,66959.0,1.0198,12,4.27,43.4,Moderate,False
+DF-100568,Customer Success,L2 - Mid,Remote-DE,81,4.0,59579.0,53115.0,1.1217,20,1.18,43.3,Moderate,False
+DF-100336,Customer Success,L2 - Mid,Remote-DE,40,4.0,57629.0,55920.0,1.0306,16,9.45,43.3,Moderate,False
+DF-100106,People/HR,L1 - Junior,Hamburg,14,1.0,42714.0,39214.0,1.0893,28,3.12,43.2,Moderate,False
+DF-100564,People/HR,L5 - Manager,Munich,90,3.0,124888.0,119838.0,1.0421,18,0.0,42.7,Moderate,False
+DF-100519,Customer Success,L1 - Junior,Remote-DE,59,4.0,43969.0,43021.0,1.022,25,1.38,42.6,Moderate,False
+DF-100462,Product,L1 - Junior,Munich,24,2.0,60409.0,60518.0,0.9982,14,2.1,42.4,Moderate,False
+DF-100657,Product,L5 - Manager,Remote-DE,35,4.0,149454.0,157639.0,0.9481,16,3.32,42.4,Moderate,False
+DF-100221,Sales,L3 - Senior,London,30,3.0,112172.0,116736.0,0.9609,17,2.26,42.2,Moderate,False
+DF-100534,Data & Analytics,L3 - Senior,Hamburg,46,3.0,99738.0,102549.0,0.9726,18,6.12,42.1,Moderate,False
+DF-100016,People/HR,L3 - Senior,Lisbon,39,4.0,68138.0,72284.0,0.9426,20,2.02,42.1,Moderate,False
+DF-100664,Finance,L3 - Senior,Remote-DE,93,5.0,85177.0,82503.0,1.0324,22,0.85,42.1,Moderate,False
+DF-100048,Customer Success,L2 - Mid,Munich,25,3.0,67726.0,73238.0,0.9247,11,5.1,41.8,Moderate,False
+DF-100227,Operations,L2 - Mid,Remote-DE,46,3.0,59101.0,61726.0,0.9575,19,2.9,41.6,Moderate,False
+DF-100669,Product,L1 - Junior,Lisbon,91,3.0,45229.0,43753.0,1.0337,15,3.23,41.6,Moderate,False
+DF-100416,Engineering,L2 - Mid,Munich,91,3.0,88518.0,96083.0,0.9213,16,5.78,41.6,Moderate,False
+DF-100393,Customer Success,L3 - Senior,Lisbon,115,3.0,68568.0,68566.0,1.0,0,4.85,41.5,Moderate,False
+DF-100434,Data & Analytics,L3 - Senior,Remote-DE,59,4.0,86936.0,85333.0,1.0188,17,1.34,41.5,Moderate,False
+DF-100622,Operations,L2 - Mid,Munich,18,4.0,60903.0,64875.0,0.9388,10,8.04,41.5,Moderate,False
+DF-100498,Product,L6 - Director,Remote-DE,37,5.0,183358.0,200680.0,0.9137,8,7.72,41.4,Moderate,False
+DF-100494,Finance,L2 - Mid,Hamburg,70,3.0,64285.0,64253.0,1.0005,14,2.03,41.3,Moderate,False
+DF-100085,Customer Success,L2 - Mid,Munich,92,3.0,68818.0,71214.0,0.9664,17,1.9,41.3,Moderate,False
+DF-100239,Data & Analytics,L2 - Mid,Lisbon,72,4.0,63825.0,68882.0,0.9266,12,5.53,41.2,Moderate,False
+DF-100362,People/HR,L2 - Mid,Lisbon,13,4.0,45535.0,46101.0,0.9877,6,1.07,41.0,Moderate,False
+DF-100228,Support,L2 - Mid,Munich,36,3.0,58582.0,60563.0,0.9673,14,7.07,41.0,Moderate,False
+DF-100188,Engineering,L5 - Manager,Hamburg,27,3.0,138500.0,139045.0,0.9961,10,1.63,40.9,Moderate,False
+DF-100467,Data & Analytics,L4 - Lead,Lisbon,33,4.0,107612.0,107887.0,0.9975,23,2.15,40.6,Moderate,False
+DF-100262,Sales,L2 - Mid,London,47,3.0,85378.0,87209.0,0.979,11,3.54,40.6,Moderate,False
+DF-100124,Product,L2 - Mid,Lisbon,61,3.0,62762.0,62708.0,1.0009,19,1.38,40.6,Moderate,False
+DF-100086,Engineering,L1 - Junior,Lisbon,41,4.0,52549.0,54279.0,0.9681,16,0.0,40.4,Moderate,False
+DF-100246,Support,L4 - Lead,Lisbon,54,3.0,73072.0,73654.0,0.9921,7,3.92,40.3,Moderate,False
+DF-100008,Product,L3 - Senior,Berlin,6,5.0,98877.0,102708.0,0.9627,0,2.21,40.2,Moderate,False
+DF-100208,Support,L1 - Junior,Munich,71,2.0,46240.0,40009.0,1.1557,29,1.08,40.1,Moderate,False
+DF-100614,Support,L2 - Mid,Hamburg,25,4.0,51721.0,49952.0,1.0354,22,2.63,39.9,Moderate,False
+DF-100040,Product,L6 - Director,Berlin,43,4.0,191967.0,200203.0,0.9589,11,1.25,39.9,Moderate,False
+DF-100385,Finance,L1 - Junior,Remote-DE,24,2.0,49466.0,52874.0,0.9355,17,10.74,39.6,Moderate,False
+DF-100057,Engineering,L2 - Mid,Remote-DE,79,4.0,75647.0,77643.0,0.9743,0,7.42,39.5,Moderate,False
+DF-100472,Data & Analytics,L1 - Junior,London,13,4.0,59453.0,55498.0,1.0713,26,2.26,39.3,Moderate,False
+DF-100203,Marketing,L1 - Junior,Munich,26,3.0,47408.0,47843.0,0.9909,9,1.41,39.1,Moderate,False
+DF-100010,Sales,L2 - Mid,Munich,39,2.0,74564.0,71282.0,1.046,23,1.49,39.0,Moderate,False
+DF-100077,Operations,L2 - Mid,Remote-DE,188,5.0,57670.0,58374.0,0.9879,9,6.14,38.9,Moderate,False
+DF-100440,Marketing,L3 - Senior,London,2,4.0,95721.0,97283.0,0.9839,2,5.36,38.7,Moderate,False
+DF-100247,Data & Analytics,L1 - Junior,Munich,6,5.0,59211.0,63434.0,0.9334,2,3.46,38.7,Moderate,False
+DF-100548,Data & Analytics,L5 - Manager,Munich,39,4.0,144470.0,143590.0,1.0061,15,1.43,38.7,Moderate,False
+DF-100602,Finance,L2 - Mid,Remote-DE,50,3.0,59045.0,61575.0,0.9589,4,5.18,38.5,Moderate,False
+DF-100015,Finance,L2 - Mid,Lisbon,19,5.0,53676.0,54381.0,0.987,11,1.75,38.4,Moderate,False
+DF-100150,Finance,L5 - Manager,Hamburg,7,5.0,126287.0,129220.0,0.9773,0,5.7,38.3,Moderate,False
+DF-100183,Operations,L2 - Mid,Munich,50,3.0,62392.0,62569.0,0.9972,14,2.62,38.3,Moderate,False
+DF-100197,Engineering,L1 - Junior,Lisbon,13,3.0,45463.0,45586.0,0.9973,5,4.87,38.2,Moderate,False
+DF-100558,Engineering,L5 - Manager,Lisbon,19,5.0,135307.0,132823.0,1.0187,24,1.92,38.2,Moderate,False
+DF-100469,Engineering,L1 - Junior,London,22,4.0,69107.0,62412.0,1.1073,16,5.12,38.1,Moderate,False
+DF-100661,People/HR,L2 - Mid,Hamburg,29,4.0,61104.0,61510.0,0.9934,14,1.67,38.1,Moderate,False
+DF-100292,Sales,L1 - Junior,Remote-DE,21,2.0,52827.0,54831.0,0.9635,13,5.61,38.0,Moderate,False
+DF-100026,People/HR,L6 - Director,London,31,3.0,176419.0,171902.0,1.0263,14,7.14,37.5,Moderate,False
+DF-100390,Engineering,L2 - Mid,Munich,44,3.0,88120.0,95689.0,0.9209,18,3.72,37.5,Moderate,False
+DF-100019,Data & Analytics,L4 - Lead,Remote-DE,26,3.0,123889.0,123508.0,1.0031,17,6.87,37.5,Moderate,False
+DF-100264,Data & Analytics,L2 - Mid,Munich,70,4.0,77561.0,81129.0,0.956,6,5.29,37.3,Moderate,False
+DF-100352,Product,L4 - Lead,Munich,44,2.0,138020.0,133937.0,1.0305,18,1.83,36.3,Moderate,False
+DF-100546,Data & Analytics,L5 - Manager,Berlin,76,4.0,147823.0,150328.0,0.9833,11,3.07,36.2,Moderate,False
+DF-100210,Finance,L1 - Junior,Berlin,26,3.0,49448.0,48300.0,1.0238,27,1.46,36.1,Moderate,False
+DF-100382,Engineering,L2 - Mid,Remote-DE,25,2.0,82221.0,81368.0,1.0105,26,2.48,36.1,Moderate,False
+DF-100071,Product,L1 - Junior,Remote-DE,32,2.0,56074.0,50653.0,1.107,24,2.4,36.0,Moderate,False
+DF-100224,Product,L2 - Mid,Hamburg,42,4.0,75544.0,79226.0,0.9535,8,4.27,35.6,Moderate,False
+DF-100056,Engineering,L3 - Senior,Remote-DE,54,4.0,97880.0,96977.0,1.0093,10,7.1,35.5,Moderate,False
+DF-100489,Data & Analytics,L3 - Senior,Munich,17,5.0,111019.0,115282.0,0.963,19,0.13,35.4,Moderate,False
+DF-100624,Operations,L1 - Junior,London,40,3.0,49469.0,49221.0,1.005,10,4.09,35.3,Moderate,False
+DF-100442,Data & Analytics,L6 - Director,Hamburg,14,3.0,174470.0,161841.0,1.078,16,4.57,34.5,Moderate,False
+DF-100407,Engineering,L3 - Senior,Lisbon,39,3.0,86674.0,85488.0,1.0139,13,6.37,34.4,Moderate,False
+DF-100453,Customer Success,L6 - Director,Hamburg,50,2.0,164541.0,138944.0,1.1842,10,5.45,34.1,Moderate,False
+DF-100220,Marketing,L2 - Mid,Hamburg,33,4.0,62786.0,67086.0,0.9359,4,6.26,34.1,Moderate,False
+DF-100626,Customer Success,L4 - Lead,Berlin,42,4.0,106003.0,102001.0,1.0392,22,1.6,34.1,Moderate,False
+DF-100377,Product,L1 - Junior,Hamburg,65,5.0,56015.0,53333.0,1.0503,16,4.06,33.8,Moderate,False
+DF-100647,People/HR,L2 - Mid,Hamburg,44,3.0,65407.0,66741.0,0.98,19,1.39,33.5,Moderate,False
+DF-100338,Sales,L3 - Senior,Hamburg,50,3.0,95523.0,96589.0,0.989,12,5.14,33.2,Moderate,False
+DF-100002,Operations,L4 - Lead,London,44,3.0,121280.0,118048.0,1.0274,26,1.36,33.2,Moderate,False
+DF-100679,Operations,L6 - Director,Berlin,39,4.0,139094.0,130660.0,1.0645,17,4.6,33.1,Moderate,False
+DF-100214,Finance,L1 - Junior,Remote-DE,88,3.0,49457.0,51480.0,0.9607,11,5.16,33.1,Moderate,False
+DF-100544,Data & Analytics,L2 - Mid,Remote-DE,5,3.0,81200.0,89928.0,0.9029,5,4.46,33.0,Moderate,False
+DF-100259,Customer Success,L3 - Senior,Berlin,39,3.0,93454.0,89498.0,1.0442,23,1.63,32.9,Moderate,False
+DF-100355,Product,L2 - Mid,Remote-DE,9,3.0,70100.0,69198.0,1.013,2,5.45,32.7,Moderate,False
+DF-100639,Support,L3 - Senior,Lisbon,7,4.0,61507.0,66422.0,0.926,3,3.31,32.5,Moderate,False
+DF-100488,Engineering,L3 - Senior,Munich,36,5.0,120353.0,119771.0,1.0049,13,2.86,32.5,Moderate,False
+DF-100287,Marketing,L1 - Junior,London,20,2.0,53659.0,51004.0,1.0521,30,1.47,32.4,Moderate,False
+DF-100118,Data & Analytics,L1 - Junior,London,7,4.0,63982.0,66053.0,0.9686,0,2.27,32.4,Moderate,False
+DF-100172,Finance,L3 - Senior,Munich,27,3.0,80529.0,77226.0,1.0428,4,5.11,32.2,Moderate,False
+DF-100093,Support,L1 - Junior,Hamburg,41,5.0,40524.0,39049.0,1.0378,17,0.0,32.2,Moderate,False
+DF-100551,Sales,L3 - Senior,Lisbon,59,3.0,80887.0,76555.0,1.0566,16,7.44,32.1,Moderate,False
+DF-100582,Marketing,L3 - Senior,Munich,70,1.0,94563.0,91943.0,1.0285,20,3.16,32.0,Moderate,False
+DF-100353,Support,L6 - Director,Lisbon,34,2.0,115394.0,116249.0,0.9926,11,1.78,31.8,Moderate,False
+DF-100011,Sales,L1 - Junior,Berlin,12,3.0,54501.0,57997.0,0.9397,6,3.42,31.7,Moderate,False
+DF-100139,Customer Success,L2 - Mid,Berlin,111,5.0,67943.0,56785.0,1.1965,18,0.83,31.4,Moderate,False
+DF-100671,Engineering,L3 - Senior,Remote-DE,109,3.0,128575.0,103034.0,1.2479,22,3.04,31.4,Moderate,False
+DF-100528,Product,L5 - Manager,Munich,77,3.0,166780.0,166809.0,0.9998,12,1.13,31.3,Moderate,False
+DF-100673,Sales,L5 - Manager,Berlin,14,3.0,134961.0,136073.0,0.9918,11,1.51,31.1,Moderate,False
+DF-100459,Support,L2 - Mid,Hamburg,24,4.0,51776.0,50014.0,1.0352,13,3.86,30.9,Moderate,False
+DF-100364,Support,L1 - Junior,Berlin,15,4.0,38417.0,39867.0,0.9636,7,3.59,30.6,Moderate,False
+DF-100024,Product,L1 - Junior,Remote-DE,34,3.0,57300.0,57805.0,0.9913,9,4.83,30.5,Moderate,False
+DF-100240,Customer Success,L2 - Mid,London,92,3.0,81041.0,69951.0,1.1585,15,8.99,30.5,Moderate,False
+DF-100265,Marketing,L4 - Lead,Remote-DE,101,3.0,123039.0,114223.0,1.0772,19,1.1,30.3,Moderate,False
+DF-100324,Support,L1 - Junior,London,28,2.0,46640.0,41900.0,1.1131,17,2.55,30.3,Moderate,False
+DF-100425,Operations,L2 - Mid,Berlin,64,1.0,57019.0,54548.0,1.0453,11,4.49,30.2,Moderate,False
+DF-100637,People/HR,L2 - Mid,Berlin,51,4.0,59014.0,57860.0,1.0199,12,0.0,30.1,Moderate,False
+DF-100592,Data & Analytics,L3 - Senior,Remote-DE,53,4.0,101989.0,92440.0,1.1033,29,2.84,30.1,Moderate,False
+DF-100088,Data & Analytics,L5 - Manager,Berlin,27,2.0,149464.0,135672.0,1.1017,19,1.71,30.0,Moderate,False
+DF-100084,Sales,L2 - Mid,Hamburg,36,3.0,67630.0,65629.0,1.0305,13,7.96,29.7,Low,False
+DF-100318,People/HR,L2 - Mid,London,11,4.0,70832.0,69033.0,1.0261,9,4.68,29.6,Low,False
+DF-100182,Operations,L6 - Director,Munich,31,3.0,160579.0,156561.0,1.0257,21,2.18,29.5,Low,False
+DF-100155,Marketing,L2 - Mid,Berlin,29,2.0,62483.0,65257.0,0.9575,0,5.48,29.4,Low,False
+DF-100157,Product,L4 - Lead,Remote-DE,32,3.0,129702.0,128391.0,1.0102,5,3.17,29.3,Low,False
+DF-100340,Support,L1 - Junior,Remote-DE,40,4.0,39393.0,37764.0,1.0431,18,9.89,29.2,Low,False
+DF-100483,Product,L1 - Junior,London,18,5.0,69183.0,66635.0,1.0382,24,2.06,29.1,Low,False
+DF-100242,Sales,L1 - Junior,Remote-DE,27,3.0,50861.0,48854.0,1.0411,10,5.58,29.0,Low,False
+DF-100523,Engineering,L4 - Lead,Remote-DE,188,4.0,145643.0,134967.0,1.0791,15,0.78,29.0,Low,False
+DF-100166,Data & Analytics,L2 - Mid,London,16,3.0,98642.0,100673.0,0.9798,18,4.31,28.9,Low,False
+DF-100306,Engineering,L2 - Mid,Hamburg,39,4.0,82306.0,69683.0,1.1811,16,1.64,28.8,Low,False
+DF-100235,Sales,L4 - Lead,Remote-DE,119,3.0,126491.0,112063.0,1.1287,18,0.98,28.7,Low,False
+DF-100599,Customer Success,L1 - Junior,Berlin,66,4.0,46131.0,45354.0,1.0171,13,4.14,28.5,Low,False
+DF-100590,People/HR,L1 - Junior,Munich,34,3.0,52335.0,46227.0,1.1321,23,1.67,28.2,Low,False
+DF-100100,Support,L3 - Senior,Lisbon,63,2.0,68558.0,61191.0,1.1204,20,2.17,28.2,Low,False
+DF-100256,Engineering,L1 - Junior,Munich,8,2.0,68838.0,67759.0,1.0159,12,2.14,28.0,Low,False
+DF-100029,Support,L2 - Mid,Remote-DE,71,5.0,53397.0,48833.0,1.0935,24,2.26,28.0,Low,False
+DF-100119,Sales,L1 - Junior,London,14,2.0,60075.0,50933.0,1.1795,0,3.5,28.0,Low,False
+DF-100452,Sales,L1 - Junior,Lisbon,43,3.0,51375.0,47341.0,1.0852,19,2.58,27.9,Low,False
+DF-100517,Finance,L2 - Mid,London,26,4.0,73762.0,64822.0,1.1379,15,4.96,27.8,Low,False
+DF-100212,Product,L1 - Junior,Munich,66,3.0,73668.0,64121.0,1.1489,22,1.53,27.8,Low,False
+DF-100163,Data & Analytics,L1 - Junior,Munich,26,3.0,57985.0,52045.0,1.1141,13,3.07,27.7,Low,False
+DF-100049,Sales,L2 - Mid,Remote-DE,17,4.0,61097.0,58525.0,1.0439,12,3.69,27.7,Low,False
+DF-100091,Marketing,L2 - Mid,Remote-DE,58,3.0,61862.0,61675.0,1.003,9,3.37,27.7,Low,False
+DF-100584,Marketing,L4 - Lead,Hamburg,24,3.0,111374.0,107858.0,1.0326,18,1.86,27.5,Low,False
+DF-100138,Sales,L1 - Junior,London,29,1.0,67767.0,58531.0,1.1578,20,2.64,27.4,Low,False
+DF-100606,Support,L1 - Junior,Remote-DE,30,4.0,40940.0,35318.0,1.1592,22,1.99,27.4,Low,False
+DF-100367,Sales,L4 - Lead,London,10,5.0,144485.0,145283.0,0.9945,4,2.27,27.3,Low,False
+DF-100211,Sales,L2 - Mid,Hamburg,84,3.0,72740.0,69139.0,1.0521,19,0.96,27.2,Low,False
+DF-100408,Support,L2 - Mid,Lisbon,41,2.0,52316.0,40563.0,1.2897,24,2.39,27.2,Low,False
+DF-100587,Support,L3 - Senior,Berlin,26,3.0,71943.0,66407.0,1.0834,7,6.92,27.2,Low,False
+DF-100241,Data & Analytics,L1 - Junior,Lisbon,40,3.0,45581.0,43803.0,1.0406,12,5.1,27.2,Low,False
+DF-100628,People/HR,L1 - Junior,Hamburg,33,5.0,55469.0,47143.0,1.1766,23,1.74,27.0,Low,False
+DF-100538,People/HR,L1 - Junior,Lisbon,109,3.0,42537.0,37726.0,1.1275,12,5.86,27.0,Low,False
+DF-100312,Sales,L2 - Mid,Munich,161,5.0,84213.0,76054.0,1.1073,16,5.25,27.0,Low,False
+DF-100410,Customer Success,L3 - Senior,Munich,18,5.0,102687.0,81702.0,1.2568,15,1.45,26.8,Low,False
+DF-100360,Support,L2 - Mid,Munich,32,2.0,59604.0,60479.0,0.9855,2,4.09,26.7,Low,False
+DF-100333,Support,L1 - Junior,Lisbon,59,3.0,36063.0,32087.0,1.1239,17,4.9,26.5,Low,False
+DF-100395,Product,L1 - Junior,Hamburg,49,4.0,63104.0,58977.0,1.07,25,0.73,26.5,Low,False
+DF-100108,Sales,L2 - Mid,Remote-DE,26,3.0,70502.0,63778.0,1.1054,17,3.92,26.5,Low,False
+DF-100570,People/HR,L3 - Senior,London,32,4.0,94744.0,92546.0,1.0238,10,3.95,26.4,Low,False
+DF-100297,Sales,L2 - Mid,Lisbon,22,4.0,60172.0,64802.0,0.9286,0,4.12,26.3,Low,False
+DF-100064,Engineering,L2 - Mid,Berlin,32,3.0,80608.0,76686.0,1.0511,8,2.38,26.3,Low,False
+DF-100646,Product,L6 - Director,Hamburg,147,3.0,224471.0,179769.0,1.2487,22,1.7,25.9,Low,False
+DF-100201,Operations,L2 - Mid,Munich,31,4.0,61375.0,61289.0,1.0014,5,4.39,25.9,Low,False
+DF-100350,Sales,L5 - Manager,Munich,30,3.0,158835.0,160698.0,0.9884,12,1.43,25.9,Low,False
+DF-100480,Support,L3 - Senior,Hamburg,56,3.0,84886.0,79901.0,1.0624,16,1.72,25.9,Low,False
+DF-100660,Engineering,L3 - Senior,Berlin,38,4.0,104622.0,99366.0,1.0529,8,1.24,25.7,Low,False
+DF-100645,Marketing,L1 - Junior,Munich,37,3.0,55140.0,44455.0,1.2404,18,4.75,25.7,Low,False
+DF-100099,Product,L3 - Senior,Hamburg,8,3.0,101477.0,95476.0,1.0629,6,3.01,25.7,Low,False
+DF-100128,Engineering,L1 - Junior,Munich,52,4.0,66629.0,63384.0,1.0512,17,3.36,25.7,Low,False
+DF-100591,People/HR,L1 - Junior,Hamburg,19,4.0,45343.0,43809.0,1.035,15,3.45,25.7,Low,False
+DF-100379,Data & Analytics,L4 - Lead,Munich,19,2.0,148218.0,134419.0,1.1027,16,6.88,25.5,Low,False
+DF-100222,Finance,L2 - Mid,Munich,22,3.0,73987.0,72602.0,1.0191,17,2.54,25.3,Low,False
+DF-100613,Data & Analytics,L5 - Manager,Munich,26,4.0,154890.0,150668.0,1.028,12,6.1,25.3,Low,False
+DF-100022,Sales,L3 - Senior,Lisbon,13,4.0,93583.0,70104.0,1.3349,30,0.74,25.2,Low,False
+DF-100192,Sales,L1 - Junior,Berlin,35,3.0,54512.0,51007.0,1.0687,15,5.75,25.0,Low,False
+DF-100649,Engineering,L2 - Mid,Munich,6,3.0,87702.0,81626.0,1.0744,2,4.86,24.8,Low,False
+DF-100215,Engineering,L1 - Junior,Berlin,28,4.0,62355.0,53311.0,1.1696,23,1.4,24.6,Low,False
+DF-100218,Support,L3 - Senior,Remote-DE,16,4.0,70862.0,65544.0,1.0811,15,3.49,24.6,Low,False
+DF-100164,Support,L2 - Mid,Remote-DE,46,5.0,50741.0,43513.0,1.1661,14,6.12,24.5,Low,False
+DF-100482,Sales,L2 - Mid,Remote-DE,36,3.0,65819.0,61407.0,1.0718,11,8.15,24.5,Low,False
+DF-100005,Support,L1 - Junior,Munich,26,3.0,43489.0,34954.0,1.2442,17,5.62,24.3,Low,False
+DF-100421,Sales,L3 - Senior,Berlin,38,4.0,100086.0,93994.0,1.0648,21,0.77,24.3,Low,False
+DF-100196,People/HR,L1 - Junior,Hamburg,22,5.0,46412.0,43445.0,1.0683,21,2.19,24.2,Low,False
+DF-100200,Customer Success,L3 - Senior,Hamburg,23,4.0,93830.0,82868.0,1.1323,17,3.33,24.1,Low,False
+DF-100659,Finance,L2 - Mid,Munich,55,2.0,73598.0,71922.0,1.0233,14,3.15,24.0,Low,False
+DF-100067,Marketing,L1 - Junior,Munich,56,3.0,49038.0,48228.0,1.0168,4,0.0,24.0,Low,False
+DF-100189,Sales,L2 - Mid,Hamburg,37,3.0,76047.0,73191.0,1.039,18,4.01,23.8,Low,False
+DF-100142,Product,L3 - Senior,London,37,4.0,111532.0,109452.0,1.019,4,4.25,23.8,Low,False
+DF-100505,Data & Analytics,L1 - Junior,Lisbon,46,3.0,46470.0,42572.0,1.0916,12,4.13,23.7,Low,False
+DF-100179,Engineering,L2 - Mid,Munich,26,4.0,92775.0,84462.0,1.0984,24,0.61,23.7,Low,False
+DF-100253,Data & Analytics,L3 - Senior,Hamburg,32,4.0,105636.0,104718.0,1.0088,11,7.16,23.7,Low,False
+DF-100120,Finance,L4 - Lead,Hamburg,43,4.0,134231.0,111658.0,1.2022,21,1.07,23.6,Low,False
+DF-100438,Product,L3 - Senior,Munich,70,5.0,111666.0,103282.0,1.0812,16,5.89,23.6,Low,False
+DF-100677,Engineering,L2 - Mid,Hamburg,18,4.0,83000.0,83458.0,0.9945,15,7.29,23.5,Low,False
+DF-100541,Engineering,L1 - Junior,Munich,37,3.0,65680.0,63925.0,1.0275,12,3.72,23.3,Low,False
+DF-100627,Data & Analytics,L5 - Manager,Hamburg,75,4.0,162108.0,149203.0,1.0865,25,1.66,23.3,Low,False
+DF-100656,Customer Success,L2 - Mid,Lisbon,9,1.0,55699.0,52820.0,1.0545,8,4.04,22.8,Low,False
+DF-100322,Support,L4 - Lead,Remote-DE,46,3.0,96985.0,87806.0,1.1045,19,1.41,22.3,Low,False
+DF-100097,Support,L2 - Mid,Munich,32,2.0,61203.0,52456.0,1.1667,16,7.09,22.2,Low,False
+DF-100226,Sales,L1 - Junior,Berlin,56,4.0,55994.0,49200.0,1.1381,20,3.45,22.1,Low,False
+DF-100181,Sales,L2 - Mid,Munich,63,4.0,81049.0,78072.0,1.0381,16,4.81,22.1,Low,False
+DF-100384,Operations,L2 - Mid,Munich,25,3.0,67963.0,67281.0,1.0101,15,5.31,22.1,Low,False
+DF-100678,Sales,L2 - Mid,Lisbon,39,4.0,53917.0,46178.0,1.1676,8,3.26,22.1,Low,False
+DF-100476,Sales,L3 - Senior,Remote-DE,43,3.0,87453.0,82552.0,1.0594,10,3.33,22.1,Low,False
+DF-100313,Marketing,L6 - Director,Lisbon,48,4.0,129038.0,116227.0,1.1102,14,3.63,22.0,Low,False
+DF-100180,Engineering,L1 - Junior,Hamburg,34,3.0,61628.0,58210.0,1.0587,9,3.62,21.8,Low,False
+DF-100028,Support,L2 - Mid,Lisbon,45,3.0,51449.0,47411.0,1.0852,16,5.86,21.7,Low,False
+DF-100477,Sales,L1 - Junior,Lisbon,4,5.0,46733.0,46917.0,0.9961,4,6.22,21.7,Low,False
+DF-100665,Finance,L3 - Senior,Munich,51,4.0,97392.0,89895.0,1.0834,16,5.33,21.6,Low,False
+DF-100638,Product,L2 - Mid,Remote-DE,133,4.0,87625.0,69840.0,1.2547,15,7.05,21.6,Low,False
+DF-100550,Engineering,L1 - Junior,Lisbon,67,3.0,53225.0,48236.0,1.1034,13,0.78,21.4,Low,False
+DF-100298,Finance,L3 - Senior,London,12,4.0,97007.0,87310.0,1.1111,0,2.67,21.3,Low,False
+DF-100058,Sales,L3 - Senior,Hamburg,49,5.0,94403.0,88745.0,1.0638,5,5.6,21.3,Low,False
+DF-100630,Data & Analytics,L2 - Mid,Berlin,28,1.0,77257.0,67209.0,1.1495,11,3.75,21.3,Low,False
+DF-100063,Support,L1 - Junior,Remote-DE,62,3.0,37708.0,35922.0,1.0497,9,2.64,21.3,Low,False
+DF-100171,Customer Success,L2 - Mid,Hamburg,36,4.0,72727.0,61575.0,1.1811,15,2.07,21.2,Low,False
+DF-100420,Sales,L1 - Junior,Hamburg,55,3.0,55750.0,53317.0,1.0456,11,4.86,21.2,Low,False
+DF-100520,People/HR,L3 - Senior,Munich,100,3.0,92628.0,81861.0,1.1315,12,7.07,21.2,Low,False
+DF-100514,Marketing,L1 - Junior,Remote-DE,23,3.0,46877.0,38755.0,1.2096,16,0.0,21.1,Low,False
+DF-100176,Operations,L3 - Senior,Munich,19,4.0,85540.0,78847.0,1.0849,6,4.39,21.0,Low,False
+DF-100412,Customer Success,L2 - Mid,Hamburg,35,5.0,70501.0,59213.0,1.1906,18,3.88,20.9,Low,False
+DF-100271,Operations,L2 - Mid,Remote-DE,87,3.0,68495.0,55974.0,1.2237,15,1.56,20.8,Low,False
+DF-100441,Engineering,L3 - Senior,Lisbon,23,4.0,95955.0,85085.0,1.1278,21,0.17,20.6,Low,False
+DF-100251,Engineering,L5 - Manager,Lisbon,19,3.0,138500.0,126827.0,1.092,24,2.34,20.6,Low,False
+DF-100361,Operations,L2 - Mid,Hamburg,18,4.0,59070.0,50656.0,1.1661,10,2.54,20.5,Low,False
+DF-100323,Finance,L3 - Senior,Remote-DE,20,3.0,87654.0,82649.0,1.0606,20,1.07,20.5,Low,False
+DF-100411,Operations,L3 - Senior,Remote-DE,57,4.0,81842.0,67017.0,1.2212,23,2.28,20.3,Low,False
+DF-100050,Engineering,L2 - Mid,Berlin,41,4.0,85101.0,85113.0,0.9999,13,3.59,20.1,Low,False
+DF-100430,Customer Success,L2 - Mid,Remote-DE,45,4.0,64939.0,62952.0,1.0316,9,5.3,20.0,Low,False
+DF-100507,Product,L2 - Mid,London,42,2.0,110387.0,100628.0,1.097,18,3.88,19.9,Low,False
+DF-100238,Finance,L3 - Senior,Hamburg,21,4.0,100248.0,88083.0,1.1381,22,2.85,19.9,Low,False
+DF-100134,Customer Success,L1 - Junior,Remote-DE,29,3.0,48847.0,43831.0,1.1144,5,3.42,19.8,Low,False
+DF-100525,Support,L1 - Junior,Remote-DE,59,3.0,39752.0,38654.0,1.0284,4,2.73,19.7,Low,False
+DF-100643,Finance,L5 - Manager,Munich,56,3.0,153594.0,131088.0,1.1717,22,2.71,19.7,Low,False
+DF-100499,Support,L2 - Mid,Berlin,49,5.0,56402.0,56403.0,1.0,7,3.92,19.6,Low,False
+DF-100293,Sales,L2 - Mid,Remote-DE,82,1.0,86798.0,76386.0,1.1363,4,0.51,19.2,Low,False
+DF-100585,People/HR,L1 - Junior,London,9,3.0,52373.0,49992.0,1.0476,8,8.03,19.1,Low,False
+DF-100524,Sales,L4 - Lead,Remote-DE,25,3.0,134701.0,118348.0,1.1382,16,5.52,19.1,Low,False
+DF-100343,Support,L5 - Manager,Berlin,23,3.0,103303.0,86904.0,1.1887,15,5.38,19.0,Low,False
+DF-100273,Product,L3 - Senior,Berlin,108,4.0,115739.0,107745.0,1.0742,12,3.27,18.8,Low,False
+DF-100431,Operations,L3 - Senior,Hamburg,25,2.0,91187.0,83035.0,1.0982,14,0.0,18.8,Low,False
+DF-100436,People/HR,L4 - Lead,Munich,25,3.0,113907.0,90942.0,1.2525,12,5.63,18.5,Low,False
+DF-100268,People/HR,L3 - Senior,Remote-DE,12,3.0,84114.0,84793.0,0.992,10,0.0,18.5,Low,False
+DF-100145,Operations,L2 - Mid,Berlin,32,3.0,67792.0,54119.0,1.2526,21,0.54,18.5,Low,False
+DF-100245,People/HR,L3 - Senior,Remote-DE,59,3.0,81038.0,73245.0,1.1064,19,2.63,18.4,Low,False
+DF-100267,Finance,L3 - Senior,Hamburg,18,3.0,97055.0,82506.0,1.1763,21,1.7,18.3,Low,False
+DF-100418,People/HR,L5 - Manager,Munich,45,3.0,146067.0,128054.0,1.1407,16,2.4,18.3,Low,False
+DF-100031,Product,L2 - Mid,Remote-DE,44,2.0,74774.0,72914.0,1.0255,1,3.02,18.3,Low,False
+DF-100516,Customer Success,L3 - Senior,Munich,8,4.0,101196.0,90852.0,1.1139,0,4.29,18.2,Low,False
+DF-100286,Marketing,L3 - Senior,Remote-DE,40,4.0,97222.0,79952.0,1.216,16,5.87,18.0,Low,False
+DF-100417,People/HR,L1 - Junior,Munich,47,2.0,47154.0,44960.0,1.0488,0,4.56,18.0,Low,False
+DF-100339,Data & Analytics,L1 - Junior,Munich,46,4.0,62980.0,60269.0,1.045,14,5.59,18.0,Low,False
+DF-100536,Finance,L4 - Lead,London,7,4.0,132265.0,120765.0,1.0952,14,5.12,18.0,Low,False
+DF-100651,Operations,L3 - Senior,Munich,38,5.0,89665.0,88185.0,1.0168,13,4.59,17.9,Low,False
+DF-100400,Support,L3 - Senior,Hamburg,19,4.0,75442.0,73138.0,1.0315,11,3.63,17.8,Low,False
+DF-100109,Customer Success,L5 - Manager,Munich,15,3.0,161307.0,123112.0,1.3102,7,1.55,17.7,Low,False
+DF-100289,Support,L2 - Mid,London,59,4.0,65526.0,53276.0,1.2299,17,4.96,17.4,Low,False
+DF-100366,Operations,L2 - Mid,Remote-DE,40,3.0,62660.0,56068.0,1.1176,24,1.82,17.4,Low,False
+DF-100433,Marketing,L4 - Lead,Munich,32,5.0,119950.0,116235.0,1.032,13,3.99,17.3,Low,False
+DF-100383,Engineering,L1 - Junior,Remote-DE,4,4.0,58246.0,50130.0,1.1619,4,0.22,17.1,Low,False
+DF-100325,Marketing,L2 - Mid,Hamburg,12,2.0,75321.0,64432.0,1.169,17,5.65,17.1,Low,False
+DF-100363,Data & Analytics,L3 - Senior,Lisbon,55,4.0,88353.0,84131.0,1.0502,15,3.69,17.0,Low,False
+DF-100276,Data & Analytics,L5 - Manager,London,43,3.0,186206.0,176058.0,1.0576,16,4.48,16.9,Low,False
+DF-100234,Support,L2 - Mid,Berlin,14,3.0,57224.0,55622.0,1.0288,13,4.88,16.7,Low,False
+DF-100295,Support,L2 - Mid,Munich,40,4.0,60243.0,50930.0,1.1829,16,4.87,16.7,Low,False
+DF-100133,People/HR,L3 - Senior,Hamburg,16,4.0,89453.0,77403.0,1.1557,19,1.71,16.7,Low,False
+DF-100344,Support,L1 - Junior,London,10,5.0,48382.0,43596.0,1.1098,13,6.38,16.5,Low,False
+DF-100449,Engineering,L1 - Junior,Lisbon,72,4.0,51480.0,45907.0,1.1214,3,4.1,16.4,Low,False
+DF-100406,Data & Analytics,L3 - Senior,Hamburg,81,4.0,105947.0,101739.0,1.0414,9,3.71,16.1,Low,False
+DF-100540,Operations,L2 - Mid,Hamburg,34,3.0,69876.0,58561.0,1.1932,18,6.93,16.0,Low,False
+DF-100266,Support,L3 - Senior,London,10,2.0,89067.0,84012.0,1.0602,5,5.94,16.0,Low,False
+DF-100300,Product,L2 - Mid,Lisbon,32,3.0,68201.0,66174.0,1.0306,14,5.3,16.0,Low,False
+DF-100376,Data & Analytics,L3 - Senior,Hamburg,18,4.0,116612.0,100930.0,1.1554,18,2.2,15.8,Low,False
+DF-100535,Engineering,L2 - Mid,Lisbon,16,4.0,73619.0,69102.0,1.0654,18,4.16,15.7,Low,False
+DF-100114,Operations,L5 - Manager,Hamburg,17,3.0,124403.0,125386.0,0.9922,9,2.94,15.7,Low,False
+DF-100301,Operations,L2 - Mid,Lisbon,14,3.0,51615.0,51636.0,0.9996,10,5.5,15.7,Low,False
+DF-100560,Finance,L1 - Junior,Munich,27,4.0,57707.0,55879.0,1.0327,5,5.76,15.6,Low,False
+DF-100198,Marketing,L1 - Junior,Munich,6,3.0,57683.0,48302.0,1.1942,5,3.26,15.6,Low,False
+DF-100113,Support,L1 - Junior,Hamburg,14,4.0,44956.0,42350.0,1.0615,10,6.29,15.5,Low,False
+DF-100105,Product,L1 - Junior,London,21,5.0,72935.0,67753.0,1.0765,14,4.2,15.3,Low,False
+DF-100667,Engineering,L1 - Junior,Munich,66,3.0,72202.0,59848.0,1.2064,8,3.81,15.3,Low,False
+DF-100586,Sales,L1 - Junior,Lisbon,34,3.0,48719.0,40977.0,1.1889,12,5.87,15.2,Low,False
+DF-100147,Data & Analytics,L4 - Lead,Hamburg,56,4.0,137726.0,130575.0,1.0548,15,6.46,15.1,Low,False
+DF-100320,Finance,L2 - Mid,London,20,3.0,78153.0,67074.0,1.1652,16,3.59,14.7,Low,False
+DF-100288,Product,L1 - Junior,Lisbon,42,2.0,51013.0,45600.0,1.1187,10,2.36,14.6,Low,False
+DF-100557,Sales,L1 - Junior,Berlin,39,3.0,62066.0,49961.0,1.2423,11,3.16,14.4,Low,False
+DF-100068,Support,L3 - Senior,London,47,5.0,88732.0,81120.0,1.0938,8,4.22,14.4,Low,False
+DF-100490,Operations,L4 - Lead,Munich,41,3.0,126710.0,103725.0,1.2216,10,7.83,14.4,Low,False
+DF-100555,Sales,L3 - Senior,Hamburg,12,4.0,103813.0,102393.0,1.0139,5,1.54,14.4,Low,False
+DF-100104,Data & Analytics,L3 - Senior,Berlin,4,2.0,119403.0,85246.0,1.4007,4,5.58,14.3,Low,False
+DF-100405,Support,L4 - Lead,Munich,58,5.0,106017.0,94779.0,1.1186,8,4.87,14.2,Low,False
+DF-100359,Data & Analytics,L2 - Mid,Lisbon,38,3.0,71436.0,66095.0,1.0808,16,4.34,14.2,Low,False
+DF-100581,Engineering,L5 - Manager,Munich,28,3.0,187298.0,171414.0,1.0927,14,4.97,14.2,Low,False
+DF-100553,Finance,L1 - Junior,Munich,18,3.0,54037.0,49310.0,1.0959,6,8.18,14.2,Low,False
+DF-100156,Operations,L5 - Manager,Lisbon,66,2.0,100727.0,86033.0,1.1708,10,8.05,14.2,Low,False
+DF-100481,Finance,L1 - Junior,Munich,31,3.0,53629.0,50901.0,1.0536,1,5.68,14.2,Low,False
+DF-100552,Sales,L1 - Junior,Berlin,55,4.0,54250.0,48524.0,1.118,13,1.51,14.2,Low,False
+DF-100413,Engineering,L3 - Senior,London,35,4.0,127801.0,122633.0,1.0421,6,3.73,14.1,Low,False
+DF-100676,Support,L5 - Manager,Lisbon,9,1.0,90971.0,86214.0,1.0552,1,3.98,14.1,Low,False
+DF-100233,Data & Analytics,L5 - Manager,Remote-DE,46,5.0,154408.0,129127.0,1.1958,17,7.15,14.1,Low,False
+DF-100319,Data & Analytics,L3 - Senior,Munich,77,3.0,115033.0,106677.0,1.0783,6,4.52,14.0,Low,False
+DF-100102,Product,L4 - Lead,Munich,45,1.0,145072.0,130405.0,1.1125,9,3.73,14.0,Low,False
+DF-100135,Sales,L2 - Mid,Lisbon,60,3.0,64622.0,56529.0,1.1432,15,4.56,13.9,Low,False
+DF-100316,Sales,L2 - Mid,Berlin,82,3.0,84259.0,64252.0,1.3114,4,3.59,13.8,Low,False
+DF-100404,Support,L3 - Senior,Remote-DE,9,2.0,71084.0,67018.0,1.0607,0,4.09,13.8,Low,False
+DF-100547,Sales,L1 - Junior,Hamburg,49,3.0,56315.0,43458.0,1.2958,11,4.56,13.8,Low,False
+DF-100023,Product,L4 - Lead,Hamburg,25,2.0,144220.0,137811.0,1.0465,5,3.72,13.7,Low,False
+DF-100009,Marketing,L1 - Junior,Lisbon,28,3.0,39886.0,34699.0,1.1495,11,5.88,13.5,Low,False
+DF-100495,Support,L3 - Senior,Remote-DE,51,3.0,78280.0,60919.0,1.285,12,1.78,13.4,Low,False
+DF-100532,Engineering,L2 - Mid,Remote-DE,10,3.0,82646.0,77754.0,1.0629,8,0.42,13.4,Low,False
+DF-100046,Support,L1 - Junior,Hamburg,21,4.0,46187.0,39139.0,1.1801,4,3.61,13.2,Low,False
+DF-100389,Marketing,L1 - Junior,Berlin,59,3.0,50019.0,43480.0,1.1504,11,2.6,13.0,Low,False
+DF-100206,Product,L3 - Senior,Berlin,51,3.0,106849.0,94718.0,1.1281,14,0.0,12.9,Low,False
+DF-100443,Data & Analytics,L1 - Junior,Munich,18,4.0,66008.0,63175.0,1.0448,12,3.8,12.9,Low,False
+DF-100346,Engineering,L5 - Manager,Munich,54,4.0,195380.0,164564.0,1.1873,12,0.88,12.9,Low,False
+DF-100045,Engineering,L2 - Mid,Hamburg,26,2.0,89723.0,71480.0,1.2552,5,6.93,12.9,Low,False
+DF-100373,Support,L6 - Director,Remote-DE,17,2.0,138791.0,125607.0,1.105,11,5.71,12.9,Low,False
+DF-100342,Sales,L2 - Mid,Hamburg,20,4.0,80915.0,70132.0,1.1538,18,3.75,12.8,Low,False
+DF-100492,Support,L1 - Junior,Berlin,11,4.0,43756.0,40959.0,1.0683,5,3.66,12.8,Low,False
+DF-100217,Support,L2 - Mid,London,41,3.0,62490.0,51560.0,1.212,7,3.32,12.6,Low,False
+DF-100473,Support,L6 - Director,Hamburg,6,4.0,159545.0,144329.0,1.1054,1,4.04,12.5,Low,False
+DF-100174,Operations,L2 - Mid,Munich,20,2.0,65778.0,46202.0,1.4237,12,1.27,12.4,Low,False
+DF-100549,Finance,L2 - Mid,Lisbon,9,3.0,53685.0,47314.0,1.1347,11,0.92,12.4,Low,False
+DF-100054,Support,L5 - Manager,Lisbon,10,3.0,101439.0,75795.0,1.3383,6,5.83,12.4,Low,False
+DF-100269,Support,L2 - Mid,Munich,32,3.0,66587.0,50701.0,1.3133,9,4.26,12.3,Low,False
+DF-100378,Engineering,L3 - Senior,London,25,4.0,127762.0,122679.0,1.0414,2,4.39,12.2,Low,False
+DF-100094,Support,L1 - Junior,Remote-DE,22,4.0,42140.0,38169.0,1.104,10,4.2,12.2,Low,False
+DF-100117,Engineering,L3 - Senior,Lisbon,40,4.0,93511.0,86933.0,1.0757,13,8.21,12.1,Low,False
+DF-100092,Product,L1 - Junior,Remote-DE,11,3.0,59065.0,54881.0,1.0762,7,0.89,12.0,Low,False
+DF-100474,Operations,L2 - Mid,Munich,36,5.0,66549.0,62656.0,1.0621,14,5.22,11.9,Low,False
+DF-100655,Sales,L1 - Junior,Lisbon,40,5.0,48702.0,45522.0,1.0699,6,4.02,11.9,Low,False
+DF-100398,Finance,L2 - Mid,Berlin,42,3.0,76731.0,64101.0,1.197,10,0.0,11.8,Low,False
+DF-100039,Data & Analytics,L3 - Senior,Lisbon,46,2.0,86073.0,76764.0,1.1213,3,6.06,11.8,Low,False
+DF-100129,People/HR,L5 - Manager,Hamburg,63,3.0,142955.0,125754.0,1.1368,12,3.78,11.8,Low,False
+DF-100329,Sales,L1 - Junior,Remote-DE,52,3.0,56313.0,52034.0,1.0822,10,3.27,11.7,Low,False
+DF-100543,Support,L2 - Mid,Munich,50,3.0,58371.0,55127.0,1.0588,5,5.53,11.6,Low,False
+DF-100335,Sales,L1 - Junior,Hamburg,10,4.0,56407.0,46138.0,1.2226,3,5.42,11.5,Low,False
+DF-100515,Sales,L3 - Senior,Hamburg,2,4.0,100079.0,91378.0,1.0952,2,4.93,11.5,Low,False
+DF-100270,Operations,L3 - Senior,Remote-DE,32,4.0,83857.0,75699.0,1.1078,14,4.84,11.3,Low,False
+DF-100619,Data & Analytics,L5 - Manager,Hamburg,60,5.0,175871.0,165896.0,1.0601,12,6.96,11.2,Low,False
+DF-100625,Operations,L2 - Mid,London,71,4.0,79150.0,72882.0,1.086,0,3.4,11.2,Low,False
+DF-100308,Operations,L5 - Manager,Munich,31,4.0,147060.0,117859.0,1.2478,13,3.2,11.2,Low,False
+DF-100423,Data & Analytics,L1 - Junior,London,14,3.0,69545.0,61283.0,1.1348,4,2.41,11.2,Low,False
+DF-100372,Data & Analytics,L1 - Junior,Berlin,17,3.0,63226.0,50620.0,1.249,11,3.41,11.1,Low,False
+DF-100518,Sales,L2 - Mid,Remote-DE,20,4.0,71790.0,68656.0,1.0456,10,4.97,11.1,Low,False
+DF-100512,People/HR,L3 - Senior,Lisbon,51,4.0,77178.0,65945.0,1.1703,13,1.68,11.1,Low,False
+DF-100060,Data & Analytics,L1 - Junior,Berlin,6,5.0,62512.0,54442.0,1.1482,0,3.52,11.0,Low,False
+DF-100356,Operations,L6 - Director,Lisbon,8,3.0,130487.0,122552.0,1.0647,0,9.09,10.9,Low,False
+DF-100447,Support,L3 - Senior,Berlin,13,3.0,74601.0,63366.0,1.1773,7,4.02,10.8,Low,False
+DF-100508,Data & Analytics,L3 - Senior,Lisbon,10,5.0,89827.0,82099.0,1.0941,12,9.18,10.7,Low,False
+DF-100562,People/HR,L3 - Senior,Lisbon,62,5.0,80082.0,66658.0,1.2014,10,2.84,10.7,Low,False
+DF-100121,Sales,L3 - Senior,Munich,30,5.0,106666.0,92083.0,1.1584,2,2.05,10.7,Low,False
+DF-100471,People/HR,L2 - Mid,London,20,3.0,76501.0,67323.0,1.1363,10,0.0,10.6,Low,False
+DF-100530,Data & Analytics,L2 - Mid,Hamburg,44,4.0,79096.0,73285.0,1.0793,5,5.6,10.6,Low,False
+DF-100095,Sales,L5 - Manager,Lisbon,36,3.0,126312.0,120645.0,1.047,8,3.12,10.6,Low,False
+DF-100151,Operations,L2 - Mid,Remote-DE,39,3.0,66169.0,59075.0,1.1201,15,2.8,10.5,Low,False
+DF-100036,Data & Analytics,L4 - Lead,Munich,48,3.0,149814.0,141384.0,1.0596,12,4.59,10.4,Low,False
+DF-100455,Support,L3 - Senior,Remote-DE,50,3.0,76105.0,64935.0,1.172,3,8.0,10.2,Low,False
+DF-100254,Operations,L3 - Senior,Berlin,49,3.0,83108.0,77247.0,1.0759,12,6.14,10.0,Low,False
+DF-100522,Support,L2 - Mid,Lisbon,43,3.0,46330.0,42606.0,1.0874,4,3.72,10.0,Low,False
+DF-100334,Engineering,L3 - Senior,Hamburg,41,3.0,114496.0,106725.0,1.0728,4,4.22,10.0,Low,False
+DF-100257,Product,L6 - Director,Remote-DE,63,3.0,223443.0,183753.0,1.216,8,5.19,9.9,Low,False
+DF-100337,Engineering,L3 - Senior,Lisbon,19,2.0,99170.0,82960.0,1.1954,7,1.75,9.8,Low,False
+DF-100130,Sales,L3 - Senior,Remote-DE,55,3.0,103231.0,94460.0,1.0929,8,2.46,9.7,Low,False
+DF-100018,Operations,L2 - Mid,Munich,52,4.0,71700.0,63189.0,1.1347,13,2.51,9.7,Low,False
+DF-100445,Sales,L3 - Senior,Munich,12,3.0,122772.0,101640.0,1.2079,3,1.8,9.5,Low,False
+DF-100237,People/HR,L1 - Junior,Remote-DE,24,3.0,44382.0,39250.0,1.1308,9,4.18,9.4,Low,False
+DF-100017,Data & Analytics,L5 - Manager,Hamburg,25,4.0,185998.0,156474.0,1.1887,7,2.41,9.4,Low,False
+DF-100243,Data & Analytics,L2 - Mid,Munich,6,3.0,95373.0,85305.0,1.118,13,3.76,9.3,Low,False
+DF-100331,Marketing,L6 - Director,London,54,3.0,198805.0,184736.0,1.0762,10,3.95,9.1,Low,False
+DF-100618,People/HR,L2 - Mid,Remote-DE,25,3.0,61792.0,57871.0,1.0678,13,2.6,9.0,Low,False
+DF-100478,Marketing,L3 - Senior,Remote-DE,21,2.0,86733.0,70899.0,1.2233,10,3.72,9.0,Low,False
+DF-100621,Marketing,L4 - Lead,Remote-DE,12,3.0,117586.0,105092.0,1.1189,9,1.99,8.9,Low,False
+DF-100357,Product,L3 - Senior,Hamburg,10,4.0,131883.0,104845.0,1.2579,8,3.57,8.9,Low,False
+DF-100205,Sales,L2 - Mid,Berlin,17,3.0,76728.0,60595.0,1.2662,12,5.16,8.7,Low,False
+DF-100623,Finance,L2 - Mid,Hamburg,50,5.0,72292.0,65370.0,1.1059,11,6.38,8.7,Low,False
+DF-100414,Engineering,L2 - Mid,Remote-DE,33,5.0,94067.0,71301.0,1.3193,8,4.8,8.6,Low,False
+DF-100191,Operations,L3 - Senior,Munich,22,3.0,88351.0,80368.0,1.0993,7,2.6,8.5,Low,False
+DF-100470,Product,L4 - Lead,Hamburg,36,4.0,147573.0,117428.0,1.2567,9,4.2,8.4,Low,False
+DF-100641,Marketing,L3 - Senior,Hamburg,16,4.0,87699.0,75166.0,1.1667,12,2.68,8.3,Low,False
+DF-100650,Marketing,L3 - Senior,Hamburg,49,5.0,94756.0,76396.0,1.2403,12,3.93,8.2,Low,False
+DF-100014,Data & Analytics,L3 - Senior,Remote-DE,12,4.0,109847.0,96453.0,1.1389,7,8.46,8.2,Low,False
+DF-100170,Product,L5 - Manager,Berlin,20,3.0,167100.0,147560.0,1.1324,7,0.54,8.0,Low,False
+DF-100112,Engineering,L2 - Mid,Hamburg,21,3.0,86148.0,81549.0,1.0564,6,4.37,7.9,Low,False
+DF-100285,Marketing,L5 - Manager,Lisbon,34,3.0,108892.0,97236.0,1.1199,10,1.95,7.7,Low,False
+DF-100456,Product,L2 - Mid,Berlin,32,3.0,83256.0,76848.0,1.0834,9,5.06,7.7,Low,False
+DF-100030,Product,L5 - Manager,London,14,4.0,196700.0,175780.0,1.119,6,2.86,7.5,Low,False
+DF-100608,Finance,L2 - Mid,Lisbon,21,3.0,57937.0,53955.0,1.0738,10,4.24,7.4,Low,False
+DF-100666,Operations,L2 - Mid,Remote-DE,18,5.0,68523.0,55352.0,1.2379,8,3.31,7.2,Low,False
+DF-100123,Operations,L5 - Manager,Munich,27,4.0,132227.0,121051.0,1.0923,6,4.91,7.2,Low,False
+DF-100004,Sales,L2 - Mid,Remote-DE,41,3.0,74799.0,70339.0,1.0634,5,3.56,7.1,Low,False
+DF-100500,Sales,L2 - Mid,Berlin,23,4.0,78357.0,70186.0,1.1164,11,4.74,6.7,Low,False
+DF-100037,Operations,L3 - Senior,Munich,10,4.0,89902.0,71390.0,1.2593,0,2.84,6.5,Low,False
+DF-100437,Data & Analytics,L2 - Mid,Lisbon,41,4.0,71262.0,59642.0,1.1948,4,1.56,6.4,Low,False
+DF-100314,Engineering,L2 - Mid,Berlin,24,3.0,89192.0,78399.0,1.1377,10,4.12,5.7,Low,False
+DF-100144,Engineering,L2 - Mid,Remote-DE,23,4.0,82660.0,70282.0,1.1761,5,3.85,5.2,Low,False

@@ -1,0 +1,4 @@
+scenario,base_salary_cost,retention_investment,expected_replacement_cost,productivity_gap_cost,total_cost,vs_status_quo
+A. Status Quo,85807142.0,0.0,20735420.0,0.0,106542562.0,-0.0
+B. Proactive Retention,85807142.0,681829.0,19621984.0,0.0,106110955.0,-431607.0
+C. Reactive (Do Nothing),85807142.0,0.0,20735420.0,5181570.0,111724133.0,5181571.0

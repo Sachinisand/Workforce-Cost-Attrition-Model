@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# LibreOffice lock files (if you recalc the Excel)
+.~lock.*#
+
+# Internal-only audit file (the model never uses it; safe to keep locally,
+# but don't commit it — it's the "answer key" for the synthetic data)
+data/raw/_ground_truth_DO_NOT_USE.csv
+
+# NOTE: by default the generated data and outputs ARE committed so a reviewer
+# can see results without running anything. If you'd rather ship only the code
+# and have everything regenerate on run, uncomment the lines below:
+# data/raw/*.csv
+# data/processed/*.csv
+# outputs/
+# models/

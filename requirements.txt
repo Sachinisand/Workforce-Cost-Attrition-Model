@@ -1,0 +1,12 @@
+# Workforce Cost & Attrition Risk Model — Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# Versions are pinned to what the project was built and tested against.
+# If pip can't find an exact version on your machine, you can safely remove
+# the "==x.y.z" part to let pip pick a compatible recent version.
+
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+openpyxl==3.1.5
+plotly==5.24.1

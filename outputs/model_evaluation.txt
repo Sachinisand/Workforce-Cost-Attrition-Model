@@ -1,0 +1,52 @@
+ATTRITION RISK MODEL — EVALUATION SUMMARY
+============================================================
+Models compared : Logistic Regression (AUC 0.853), Random Forest (AUC 0.856)
+Selected model  : Random Forest
+
+WHAT ROC-AUC MEANS (plain English):
+  AUC = 0.856. If you pick one employee who left and one
+  who stayed at random, the model gives the leaver a higher risk
+  score 86% of the time. 50% would be a coin flip;
+  this model is substantially better than chance and in the range
+  expected for a real, noisy people-analytics problem.
+
+Held-out test set performance @ default 0.5 threshold:
+              precision    recall  f1-score   support
+
+      Stayed      0.927     0.779     0.846       131
+        Left      0.517     0.795     0.626        39
+
+    accuracy                          0.782       170
+   macro avg      0.722     0.787     0.736       170
+weighted avg      0.833     0.782     0.796       170
+
+Confusion matrix [rows=actual, cols=predicted]:
+            pred Stay  pred Leave
+  Stayed        102         29
+  Left            8         31
+
+Early-warning operating point (tuned to catch ~70% of leavers):
+  threshold = 0.54  ->  recall 74% (of true leavers caught), precision 53%
+  Interpretation: at this setting the watchlist catches roughly 7 in
+  10 future leavers; ~53% of flagged people are genuine flight risks.
+
+TOP ATTRITION DRIVERS  (Random Forest impurity importance, grouped):
+   34.6%  Pay vs market (comp ratio)
+   31.1%  Position in salary band
+    8.8%  Time since last raise
+    7.1%  Department
+    5.5%  Size of last raise
+    5.4%  Tenure
+    4.0%  Job level
+    2.0%  Location
+
+READING THE DRIVERS:
+  Department and job level carry the most weight (some teams and seniority
+  tiers are structurally higher-churn), but the strongest *actionable*
+  levers are compensation-related: pay relative to market, time since the
+  last raise, and position in band. These are things leadership can change —
+  unlike fixed traits — which is what makes the model decision-useful.
+
+WATCHLIST: 64 active employees (12% of workforce) at highest risk,
+  risk score >= 57/100. See retention_watchlist.csv.
+============================================================
