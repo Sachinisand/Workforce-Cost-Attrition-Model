@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="919" height="419" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28" y="40" font-size="19" font-weight="650" fill="#0b0b0b">Why employees leave, and what acting on it is worth</text>
+<text x="28" y="64" font-size="13" fill="#52514e">Attrition risk model (Random Forest, ROC-AUC 0.856) · synthetic data, 524 active employees</text>
+<text x="28" y="104" font-size="14" font-weight="600" fill="#0b0b0b">Top attrition drivers (share of model importance)</text>
+<text x="186" y="142" font-size="12.5" fill="#52514e" text-anchor="end">Pay vs market</text>
+<path d="M196,130 H373.6 Q377.6,130 377.6,134 V144 Q377.6,148 373.6,148 H196 Z" fill="#2a78d6"/>
+<text x="384.6" y="143" font-size="12.5" font-weight="600" fill="#0b0b0b">34.6%</text>
+<text x="186" y="176" font-size="12.5" fill="#52514e" text-anchor="end">Position in salary band</text>
+<path d="M196,164 H355.3 Q359.3,164 359.3,168 V178 Q359.3,182 355.3,182 H196 Z" fill="#2a78d6"/>
+<text x="366.3" y="177" font-size="12.5" font-weight="600" fill="#0b0b0b">31.1%</text>
+<text x="186" y="210" font-size="12.5" fill="#52514e" text-anchor="end">Time since last raise</text>
+<path d="M196,198 H238.2 Q242.2,198 242.2,202 V212 Q242.2,216 238.2,216 H196 Z" fill="#2a78d6"/>
+<text x="249.2" y="211" font-size="12.5" font-weight="600" fill="#0b0b0b">8.8%</text>
+<text x="186" y="244" font-size="12.5" fill="#52514e" text-anchor="end">Department</text>
+<path d="M196,232 H229.3 Q233.3,232 233.3,236 V246 Q233.3,250 229.3,250 H196 Z" fill="#2a78d6"/>
+<text x="240.3" y="245" font-size="12.5" font-weight="600" fill="#0b0b0b">7.1%</text>
+<text x="186" y="278" font-size="12.5" fill="#52514e" text-anchor="end">Size of last raise</text>
+<path d="M196,266 H220.9 Q224.9,266 224.9,270 V280 Q224.9,284 220.9,284 H196 Z" fill="#2a78d6"/>
+<text x="231.9" y="279" font-size="12.5" font-weight="600" fill="#0b0b0b">5.5%</text>
+<text x="186" y="312" font-size="12.5" fill="#52514e" text-anchor="end">Tenure</text>
+<path d="M196,300 H220.3 Q224.3,300 224.3,304 V314 Q224.3,318 220.3,318 H196 Z" fill="#2a78d6"/>
+<text x="231.3" y="313" font-size="12.5" font-weight="600" fill="#0b0b0b">5.4%</text>
+<text x="186" y="346" font-size="12.5" fill="#52514e" text-anchor="end">Job level</text>
+<path d="M196,334 H213.0 Q217.0,334 217.0,338 V348 Q217.0,352 213.0,352 H196 Z" fill="#2a78d6"/>
+<text x="224.0" y="347" font-size="12.5" font-weight="600" fill="#0b0b0b">4.0%</text>
+<line x1="196" x2="196" y1="124" y2="364" stroke="#8a8984"/>
+<text x="500" y="104" font-size="14" font-weight="600" fill="#0b0b0b">24-month cost vs. status quo</text>
+<text x="500" y="146" font-size="12.5" fill="#52514e">A. Status quo</text>
+<text x="676" y="169" font-size="12.5" fill="#52514e">€0 (baseline)</text>
+<text x="500" y="204" font-size="12.5" fill="#52514e">B. Targeted raises now</text>
+<rect x="654.4" y="212" width="15.6" height="20" rx="4" fill="#2a78d6"/>
+<text x="648.4" y="227" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">−€0.43M</text>
+<text x="500" y="262" font-size="12.5" fill="#52514e">C. Do nothing, backfill</text>
+<rect x="670.0" y="270" width="188.4" height="20" rx="4" fill="#eb6834"/>
+<text x="864.4" y="285" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">+€5.18M</text>
+<line x1="670" x2="670" y1="148" y2="304" stroke="#52514e"/>
+<text x="500" y="326" font-size="12" fill="#52514e">A €0.68M retention budget for 64 at-risk employees</text>
+<text x="500" y="344" font-size="12" fill="#52514e">avoids ~€5.6M compared with reacting after they leave.</text>
+<text x="28" y="402" font-size="12" fill="#8a8984">Pay-related factors (pay vs market, salary-band position) make up two-thirds of model importance: compensation is the main lever.</text>
+</svg>
