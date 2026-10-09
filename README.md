@@ -13,6 +13,8 @@ executive dashboard for non-technical leadership and PE stakeholders.
 
 > All data is **synthetic** and generated locally. No real employee data is used.
 
+**[▶ Open the interactive dashboard](https://htmlpreview.github.io/?https://github.com/Sachinisand/Workforce-Cost-Attrition-Model/blob/main/outputs/executive_dashboard.html)**: filter by department, location and job level, hover for details, and sort the retention watchlist.
+
 ---
 
 ## The headline finding
@@ -105,7 +107,7 @@ severity and the remediation applied. On a typical run it catches and fixes:
 - **5 missing salaries** (imputed with department × level median)
 - **1 out-of-range salary** (a 10× data-entry error, capped to band)
 - **8 missing performance ratings** (median-imputed, flagged)
-- **6 departments with inconsistent casing/whitespace** (canonicalised)
+- **2 department values with inconsistent casing/whitespace** (canonicalised)
 - a **12% external-benchmark coverage gap** (imputed from internal band mid)
 
 Crucially, every imputed or corrected value keeps an audit flag
@@ -140,8 +142,12 @@ recomputes. The workbook was validated to contain **zero formula errors** across
 ~3,150 formulas.
 
 ### 5. Executive dashboard
-A single self-contained `executive_dashboard.html` (Plotly is embedded, so it works
-**offline** — safe to demo live on any machine). It leads with the financial
+A single self-contained `executive_dashboard.html` (about 55 KB, no external libraries: the charts are
+inline SVG drawn by plain JavaScript, so it works **offline** — safe to demo live on any machine).
+Filters for department, location and job level update every people metric, the charts and the
+watchlist; cost figures stay company-wide because the scenario model is not split by department.
+The model name and ROC-AUC are read from `outputs/model_evaluation.txt`, so the dashboard can never
+disagree with the model step. It leads with the financial
 decision (cost of inaction vs intervention), shows where risk concentrates by
 department, what's driving it, and the named retention watchlist — all framed in
 euros, not model jargon.
