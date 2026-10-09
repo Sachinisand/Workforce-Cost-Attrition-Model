@@ -1,7 +1,7 @@
 # Workforce Cost & Attrition Risk Model
 ### A Zero-to-One People Analytics Build
 
-A end-to-end people-analytics system that integrates fragmented HR, payroll, and
+An end-to-end people-analytics system that integrates fragmented HR, payroll, and
 market-benchmark data into one governed dataset, predicts which employees are at
 risk of leaving, and translates that risk into a clear financial decision for
 leadership: **what does it cost to act, versus what does it cost to do nothing?**
@@ -36,6 +36,8 @@ attrition run its course and backfilling reactively.
 *(Exact figures shift slightly if the synthetic data is regenerated with a
 different random seed; the structure and direction of the result are stable.)*
 
+![Attrition drivers and 24-month cost scenarios](images/workforce_results.svg)
+
 ---
 
 ## What's in the box
@@ -65,8 +67,9 @@ Workforce Cost & Attrition Risk Model/
 
 ### To run it yourself
 ```bash
-pip install pandas numpy scikit-learn openpyxl plotly
-cd workforce_analytics
+git clone https://github.com/Sachinisand/Workforce-Cost-Attrition-Model.git
+cd Workforce-Cost-Attrition-Model
+pip install -r requirements.txt
 python src/01_generate_synthetic_data.py
 python src/02_etl_integration.py
 python src/03_attrition_model.py
